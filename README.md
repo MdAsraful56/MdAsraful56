@@ -1,5 +1,4 @@
-## Hi there 👋
-## I'm Ashraful Islam Asrf
+## Hi there 👋 I'm Ashraful Islam Asrf
 
 # 💫 About Me:
 I’m a passionate Frontend Developer and React.js Enthusiast from Bangladesh. 🚀<br>I enjoy building dynamic and user-friendly web applications, always learning new technologies, and contributing to open-source projects.<br>Currently, I am exploring Next.js and TypeScript to enhance my full-stack development skills.
